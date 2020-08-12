@@ -21,14 +21,14 @@ Use [Font Awesome](https://fontawesome.com/) for any icons that could be require
 [Google Fonts](https://fonts.google.com/)
 
 When a Pokemon is looked up the info displayed to the user are as follows:
--Special abilities
--Base EXP
--Sprites of the front of the Pokemon
--Base Stats (Hitpoints, Attack, Defense, Special Attack, Special Defense, Speed)
--Type (Grass, Fire, Electric etc)
--Encounter locations:
+
+- Special abilities
+- Base EXP
+- Sprites of the front of the Pokemon
+- Base Stats (Hitpoints, Attack, Defense, Special Attack, Special Defense, Speed)
+- Type (Grass, Fire, Electric etc)
+- Next Evolution
+- Encounter locations:
 
 1. Name of location
 2. Game version
-
--Next Evolution
